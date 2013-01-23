@@ -1,10 +1,2 @@
-= Welcome on the Telosys Tool WIKI =
-
-Aaaa 
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+The Telosys Tools information web site 
+is hosted here : https://sites.google.com/site/telosystools/
